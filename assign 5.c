@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    char word[] = "COMPUTER";  // Word to guess
+    char word[] = "FOCP";  // Word to guess
     char display[] = "________";  // Hidden word display
     int chances = 3;
     char guess;
