@@ -56,4 +56,4 @@ int main() {
     return 0;
 }
 
-//Q5
+//Q5 wap to calculate compound interest for a given principal amount, rate, time using constants and user input for variable
